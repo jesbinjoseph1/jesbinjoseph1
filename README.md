@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Jesbin Joseph
 
-<!--
-**jesbinjoseph1/jesbinjoseph1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast  
+💻 I love turning ideas into web applications using React, Node, and MongoDB.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Other Tools**: Git, GitHub, Postman, Netlify, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+- 💼 [Portfolio Website](https://github.com/jesbinjoseph1/portfolio) – Built with React.js
+- 🛍️ E-commerce App (Coming Soon) – MERN Stack based shopping cart system
+
+## 📫 Contact
+📧 jpjesbin15@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jesbin-joseph-42b822270)
+
+Let's connect and collaborate on exciting web projects!
